@@ -1,6 +1,6 @@
 # <img src="https://pbs.twimg.com/profile_banners/1546610332168241153/1657576142/1500x500"/>
  
-### Hey 👋, I'm @tidusec. I'm a student. Welcome to my github page! <br>
+### Hey 👋, I'm @tidusec. Welcome to my github page! <br>
  
 Resume:  [@tidusec](https://github.io) (Website)
 
