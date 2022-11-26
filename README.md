@@ -2,8 +2,6 @@
  
 ### Hey 👋, I'm @tidusec. Welcome to my github page! <br>
  
-Resume:  [@tidusec](https://github.io) (Website)
-
 🌱 *Currently Learning*: Python, C++, SQL, Cybersecurity<br>
 🤔 *Looking for help*: I'm looking for motivated people to learn things with, do ctf's, etc. .<br>
 💬 Ask me about: Cybersecurity related questions <br>
