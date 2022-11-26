@@ -2,7 +2,6 @@
  
 ### Hey 👋, I'm @tidusec. Welcome to my github page! <br>
  
-🌱 *Currently Learning*: Python, C++, SQL, Cybersecurity<br>
-🤔 *Looking for help*: I'm looking for motivated people to learn things with, do ctf's, etc. .<br>
-💬 Ask me about: Cybersecurity related questions <br>
+🌱 *Currently Learning*: SQL, Cybersecurity<br>
+💬 Ask me about: Anything <br>
 📫 How to reach me: &nbsp; [Email](timothydudley@tutanota.com) Or [Twitter](https://www.twitter.com/tidusec)
